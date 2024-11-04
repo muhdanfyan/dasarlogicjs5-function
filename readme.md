@@ -107,8 +107,9 @@ Buat sebuah fungsi bernama tambah yang menerima dua parameter, yaitu angka1 dan 
 Contoh:
 ```javascript
 let hasil = tambah(10, 5); // Output: 15
-Instruksi:
 ```
+Instruksi:
+
 Buat fungsi tambah dengan dua parameter: angka1 dan angka2.
 Gunakan operator + untuk menjumlahkan kedua angka, dan kembalikan hasilnya.
 📌 Tugas 4: Fungsi Pengecek Bilangan Ganjil atau Genap
@@ -118,8 +119,8 @@ Contoh:
 ```javascript
 cekGanjilGenap(7); // Output: "Angka 7 adalah ganjil"
 cekGanjilGenap(4); // Output: "Angka 4 adalah genap"
-Instruksi:
 ```
+Instruksi:
 Buat fungsi cekGanjilGenap dengan parameter angka.
 Gunakan if-else untuk memeriksa apakah angka tersebut ganjil atau genap.
 Tampilkan pesan hasilnya menggunakan console.log.
@@ -129,6 +130,7 @@ Buat fungsi bernama hitungDiskon yang menerima dua parameter, yaitu harga dan di
 Contoh:
 ```javascript
 let hargaSetelahDiskon = hitungDiskon(100000, 20); // Output: 80000
+```
 Instruksi:
 
 Buat fungsi hitungDiskon dengan dua parameter: harga dan diskon (diskon dalam persen).

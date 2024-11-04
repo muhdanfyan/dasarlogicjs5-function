@@ -40,7 +40,7 @@ Misalkan kita ingin menghitung luas persegi panjang. Dengan function hitungLuasP
 function hitungLuasPersegiPanjang(panjang, lebar) {
     return panjang * lebar;
 }
-
+```
 let luas = hitungLuasPersegiPanjang(5, 10); // Output: 50
 2. Mengirim Pesan atau Notifikasi
 Dalam aplikasi, kita sering perlu mengirim notifikasi atau pesan kepada pengguna. Function kirimNotifikasi dapat memastikan setiap pesan dikirim dengan cara yang konsisten.
@@ -49,7 +49,7 @@ Dalam aplikasi, kita sering perlu mengirim notifikasi atau pesan kepada pengguna
 function kirimNotifikasi(pesan) {
     console.log("Notifikasi: " + pesan);
 }
-
+```
 kirimNotifikasi("Selamat datang di aplikasi kami!");
 kirimNotifikasi("Update terbaru telah tersedia.");
 3. Validasi Data

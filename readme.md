@@ -69,10 +69,8 @@ Cobalah membuat function sendiri berdasarkan contoh di atas atau buatlah functio
 
 Semoga penjelasan ini membantu kamu memahami cara kerja function dan bagaimana menggunakannya dalam program JavaScript!
 
-```
 **README.md ini** menjelaskan konsep function dengan analogi 
 sederhana, memberikan contoh kode yang mudah diikuti, dan menyoroti kegunaan function dalam aplikasi sehari-hari. Ini juga mencakup bagian latihan untuk mendorong peserta belajar dengan praktek.
-```
 
 
 #Tugas: Memahami Cara Kerja Function dalam JavaScript
